@@ -1,0 +1,40 @@
+{
+  "socialicon": [
+    {
+      "url": "/",
+      "icon": "fa fa-facebook"
+    },
+    {
+      "url": "/",
+      "icon": "fa fa-twitter"
+    },
+    {
+      "url": "/",
+      "icon": "fa fa-linkedin"
+    }
+  ],
+  "popularserces": {
+    "links": [
+      { "url": "/", "title": "Apartment for Rent" },
+      { "url": "/", "title": "Apartment for Rent" },
+      { "url": "/", "title": "Apartment for Rent" },
+      { "url": "/", "title": "Apartment for Rent" }
+    ]
+  },
+  "Homepress": {
+    "links": [
+      { "url": "/", "title": "Apartment for Rent" },
+      { "url": "/", "title": "Apartment for Rent" },
+      { "url": "/", "title": "Apartment for Rent" },
+      { "url": "/", "title": "Apartment for Rent" }
+    ]
+  },
+  "quicklink": {
+    "links": [
+      { "url": "/", "title": "Apartment for Rent" },
+      { "url": "/", "title": "Apartment for Rent" },
+      { "url": "/", "title": "Apartment for Rent" },
+      { "url": "/", "title": "Apartment for Rent" }
+    ]
+  }
+}

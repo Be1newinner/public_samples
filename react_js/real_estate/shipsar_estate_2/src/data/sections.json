@@ -1,0 +1,463 @@
+{
+  "banner": {
+    "subtitle": "The Best Way To",
+    "title1": "Find Your",
+    "title2": "Perfect Home"
+  },
+  "services": {
+    "items": [
+      {
+        "btntxt": "Explore Now",
+        "title": "Upgrade to Bigger Homes",
+        "icon": "3.png"
+      },
+      {
+        "btntxt": "Explore Now",
+        "title": "The Right Space for Business",
+        "icon": "4.png"
+      },
+      {
+        "btntxt": "Explore Now",
+        "title": "Rent New Home for you",
+        "icon": "5.png"
+      },
+      {
+        "btntxt": "Explore Now",
+        "title": "The Plots for your choice for you",
+        "icon": "6.png"
+      }
+    ]
+  },
+  "explore": {
+    "items": [
+      { "image": "1.png", "city": "Delhi", "lisgintnumber": 12, "price": 500 },
+      { "image": "1.png", "city": "Mumbai", "lisgintnumber": 20, "price": 400 },
+      {
+        "image": "1.png",
+        "city": "Gurgaon",
+        "lisgintnumber": 25,
+        "price": 700
+      },
+      {
+        "image": "1.png",
+        "city": "Faridabad",
+        "lisgintnumber": 28,
+        "price": 900
+      }
+    ]
+  },
+
+  "propertybtcities": {
+    "sectiontitle": "Section Title",
+    "intro": [
+      {
+        "title": "Looking for the new home?",
+        "content": "10 new offers every day. 350 offers on site, trusted by a community of thousands of users.",
+        "icon": "9.png"
+      },
+      {
+        "title": "Want to sell your home??",
+        "content": "10 new offers every day. 350 offers on site, trusted by a community of thousands of users.",
+        "icon": "10.png"
+      }
+    ],
+    "items": [
+      {
+        "image": "1.png",
+        "imagealt": "Delhi East Apartment",
+        "url": "/",
+        "city": "Delhi",
+        "content": "12 Properties",
+        "class": "col-lg-2 col-sm-6",
+        "features": [
+          { "icon": "fa fa-bed", "title": "05 Bed" },
+          { "icon": "fa fa-bath", "title": "02 Bath" }
+        ],
+        "sectionclass": "sc-one"
+      },
+      {
+        "image": "2.png",
+        "imagealt": "Delhi West Apartment",
+        "url": "/",
+        "city": "Delhi",
+        "content": "13 Properties",
+        "class": "col-lg-2 col-sm-6",
+        "features": [
+          { "icon": "fa fa-bed", "title": "05 Bed" },
+          { "icon": "fa fa-bath", "title": "02 Bath" }
+        ],
+        "sectionclass": "sc-two"
+      },
+      {
+        "image": "3.png",
+        "imagealt": "Delhi North Apartment",
+        "url": "/",
+        "city": "Delhi",
+        "content": "14 Properties",
+        "class": "col-lg-5 col-sm-6",
+        "features": [
+          { "icon": "fa fa-bed", "title": "05 Bed" },
+          { "icon": "fa fa-bath", "title": "02 Bath" }
+        ],
+        "sectionclass": ""
+      },
+      {
+        "image": "3.png",
+        "imagealt": "Delhi North Apartment",
+        "url": "/",
+        "city": "Delhi",
+        "content": "14 Properties",
+        "class": "col-lg-5 col-sm-6",
+        "features": [
+          { "icon": "fa fa-bed", "title": "05 Bed" },
+          { "icon": "fa fa-bath", "title": "02 Bath" }
+        ],
+        "sectionclass": ""
+      }
+    ]
+  },
+
+  "featuredproperties": {
+    "items": [
+      {
+        "image": "2.png",
+        "icon": "l1.png",
+        "imagealt": "Vegas Landville Apartment",
+        "authorname": "Vijay Kumar",
+        "url": "/property-details",
+        "title": "Vegas Landville Apartment",
+        "newerprice": "INR 45K/mo",
+        "olderprice": "INR 79K/mo",
+        "features": [
+          { "icon": "fa fa-bed", "title": "05 Bed" },
+          { "icon": "fa fa-bath", "title": "02 Bath" }
+        ],
+        "area": "120 sqft"
+      },
+      {
+        "image": "3.png",
+        "icon": "l1.png",
+        "imagealt": "Faridabad East Apartment",
+        "authorname": "Vijay Kumar",
+        "url": "/property-details",
+        "title": "Faridabad East Apartment",
+        "newerprice": "INR 45K/mo",
+        "olderprice": "INR 79K/mo",
+        "features": [
+          { "icon": "fa fa-bed", "title": "05 Bed" },
+          { "icon": "fa fa-bath", "title": "02 Bath" }
+        ],
+        "area": "120 sqft"
+      },
+      {
+        "image": "4.png",
+        "icon": "l1.png",
+        "imagealt": "Deoli Outer Apartment",
+        "authorname": "Vijay Kumar",
+        "url": "/property-details",
+        "title": "Deoli Outer Apartment",
+        "newerprice": "INR 45K/mo",
+        "olderprice": "INR 79K/mo",
+        "features": [
+          { "icon": "fa fa-bed", "title": "05 Bed" },
+          { "icon": "fa fa-bath", "title": "02 Bath" }
+        ],
+        "area": "120 sqft"
+      },
+      {
+        "image": "5.png",
+        "icon": "l1.png",
+        "imagealt": "Delhi East Apartment",
+        "authorname": "Vijay Kumar",
+        "url": "/property-details",
+        "title": "Delhi East Apartment",
+        "newerprice": "INR 45K/mo",
+        "olderprice": "INR 79K/mo",
+        "features": [
+          { "icon": "fa fa-bed", "title": "05 Bed" },
+          { "icon": "fa fa-bath", "title": "02 Bath" }
+        ],
+        "area": "120 sqft"
+      },
+      {
+        "image": "6.png",
+        "icon": "l1.png",
+        "imagealt": "Gurgaon South Apartment",
+        "authorname": "Vijay Kumar",
+        "url": "/property-details",
+        "title": "Gurgaon South Apartment",
+        "newerprice": "INR 45K/mo",
+        "olderprice": "INR 79K/mo",
+        "features": [
+          { "icon": "fa fa-bed", "title": "05 Bed" },
+          { "icon": "fa fa-bath", "title": "02 Bath" }
+        ],
+        "area": "120 sqft"
+      },
+      {
+        "image": "7.png",
+        "icon": "l1.png",
+        "imagealt": "Mumbai Landville Apartment",
+        "authorname": "Vijay Kumar",
+        "url": "/property-details",
+        "title": "Mumbai Landville Apartment",
+        "newerprice": "INR 45K/mo",
+        "olderprice": "INR 79K/mo",
+        "features": [
+          { "icon": "fa fa-bed", "title": "05 Bed" },
+          { "icon": "fa fa-bath", "title": "02 Bath" }
+        ],
+        "area": "120 sqft"
+      }
+    ]
+  },
+  "whychooseus": {
+    "items": [
+      {
+        "class": "",
+        "icon": "11.png",
+        "imagealt": "Sell, Rent Property Free",
+        "url": "/",
+        "title": "Sell, Rent Property Free",
+        "content": "Our experts answer all queries with their unmatched knowledge at every step of home buying."
+      },
+      {
+        "class": "",
+        "icon": "12.png",
+        "imagealt": "In-depth Info on Investment Hotspots",
+        "url": "/",
+        "title": "In-depth Info on Investment Hotspots",
+        "content": "Our experts answer all queries with their unmatched knowledge at every step of home buying."
+      },
+      {
+        "class": "",
+        "icon": "13.png",
+        "imagealt": "Pool of Best Property Options",
+        "url": "/",
+        "title": "Pool of Best Property Options",
+        "content": "Our experts answer all queries with their unmatched knowledge at every step of home buying."
+      }
+    ]
+  },
+  "partner": {
+    "items": [
+      { "image": "1.png" },
+      { "image": "2.png" },
+      { "image": "3.png" },
+      { "image": "4.png" }
+    ]
+  },
+
+  "recentproperties": {
+    "items": [
+      {
+        "image": "4.png",
+        "imagealt": "Delhi East Apartment",
+        "icon": "13.png",
+        "authorname": "Vijay Kumar",
+        "url": "/property-details",
+        "title": "Jason Landville Apartment",
+        "newerprice": "INR 45K/mo",
+        "olderprice": "INR 79K/mo",
+        "features": [
+          { "icon": "fa fa-bed", "title": "05 Bed" },
+          { "icon": "fa fa-bath", "title": "02 Bath" }
+        ]
+      },
+      {
+        "image": "4.png",
+        "imagealt": "Delhi East Apartment",
+        "icon": "13.png",
+        "authorname": "Vijay Kumar",
+        "url": "/property-details",
+        "title": "Jason Landville Apartment",
+        "newerprice": "INR 45K/mo",
+        "olderprice": "INR 79K/mo",
+        "features": [
+          { "icon": "fa fa-bed", "title": "05 Bed" },
+          { "icon": "fa fa-bath", "title": "02 Bath" }
+        ]
+      },
+      {
+        "image": "4.png",
+        "imagealt": "Delhi East Apartment",
+        "icon": "13.png",
+        "authorname": "Vijay Kumar",
+        "url": "/property-details",
+        "title": "Jason Landville Apartment",
+        "newerprice": "INR 45K/mo",
+        "olderprice": "INR 79K/mo",
+        "features": [
+          { "icon": "fa fa-bed", "title": "05 Bed" },
+          { "icon": "fa fa-bath", "title": "02 Bath" }
+        ]
+      },
+      {
+        "image": "4.png",
+        "imagealt": "Delhi East Apartment",
+        "icon": "13.png",
+        "authorname": "Vijay Kumar",
+        "url": "/property-details",
+        "title": "Jason Landville Apartment",
+        "newerprice": "INR 45K/mo",
+        "olderprice": "INR 79K/mo",
+        "features": [
+          { "icon": "fa fa-bed", "title": "05 Bed" },
+          { "icon": "fa fa-bath", "title": "02 Bath" }
+        ]
+      }
+    ]
+  },
+  "topquthor": {
+    "items": [
+      {
+        "icon": "2.png",
+        "imagealt": "Shipsar",
+        "compnaname": "Shipsar",
+        "url": "/property-details"
+      },
+      {
+        "icon": "3.png",
+        "imagealt": "Hiekart",
+        "compnaname": "Hiekart",
+        "url": "/property-details"
+      },
+      {
+        "icon": "4.png",
+        "imagealt": "IMS Global",
+        "compnaname": "IMS Global",
+        "url": "/property-details"
+      },
+      {
+        "icon": "5.png",
+        "imagealt": "Team Sankalp",
+        "compnaname": "Team Sankalp",
+        "url": "/property-details"
+      }
+    ]
+  },
+
+  "property": {
+    "items": [
+      {
+        "image": "3.png",
+        "cat": ".cat1 .cat2 .cat3",
+        "imagealt": "Delhi East Apartment",
+        "icon": "14.png",
+        "authorname": "Vijay Kumar",
+        "url": "/property-details",
+        "title": "Jason Landville Apartment",
+        "newerprice": "INR 45K/mo",
+        "olderprice": "INR 79K/mo",
+        "features": [
+          { "icon": "fa fa-bed", "title": "05 Bed" },
+          { "icon": "fa fa-bath", "title": "02 Bath" }
+        ]
+      },
+      {
+        "image": "4.png",
+        "cat": ".cat1 .cat2",
+        "imagealt": "Delhi East Apartment",
+        "icon": "14.png",
+        "authorname": "Vijay Kumar",
+        "url": "/property-details",
+        "title": "Jason Landville Apartment",
+        "newerprice": "INR 45K/mo",
+        "olderprice": "INR 79K/mo",
+        "features": [
+          { "icon": "fa fa-bed", "title": "05 Bed" },
+          { "icon": "fa fa-bath", "title": "02 Bath" }
+        ]
+      },
+      {
+        "cat": ".cat1 .cat2 .cat4",
+        "image": "5.png",
+        "imagealt": "Delhi East Apartment",
+        "icon": "14.png",
+        "authorname": "Vijay Kumar",
+        "url": "/property-details",
+        "title": "Jason Landville Apartment",
+        "newerprice": "INR 45K/mo",
+        "olderprice": "INR 79K/mo",
+        "features": [
+          { "icon": "fa fa-bed", "title": "05 Bed" },
+          { "icon": "fa fa-bath", "title": "02 Bath" }
+        ]
+      },
+      {
+        "cat": ".cat4 .cat3",
+        "image": "6.png",
+        "imagealt": "Delhi East Apartment",
+        "icon": "14.png",
+        "authorname": "Vijay Kumar",
+        "url": "/property-details",
+        "title": "Jason Landville Apartment",
+        "newerprice": "INR 45K/mo",
+        "olderprice": "INR 79K/mo",
+        "features": [
+          { "icon": "fa fa-bed", "title": "05 Bed" },
+          { "icon": "fa fa-bath", "title": "02 Bath" }
+        ]
+      },
+      {
+        "cat": ".cat1 .cat4",
+        "image": "7.png",
+        "imagealt": "Delhi East Apartment",
+        "icon": "14.png",
+        "authorname": "Vijay Kumar",
+        "url": "/property-details",
+        "title": "Jason Landville Apartment",
+        "newerprice": "INR 45K/mo",
+        "olderprice": "INR 79K/mo",
+        "features": [
+          { "icon": "fa fa-bed", "title": "05 Bed" },
+          { "icon": "fa fa-bath", "title": "02 Bath" }
+        ]
+      },
+      {
+        "cat": ".cat2 .cat4",
+        "image": "8.png",
+        "imagealt": "Delhi East Apartment",
+        "icon": "14.png",
+        "authorname": "Vijay Kumar",
+        "url": "/property-details",
+        "title": "Jason Landville Apartment",
+        "newerprice": "INR 45K/mo",
+        "olderprice": "INR 79K/mo",
+        "features": [
+          { "icon": "fa fa-bed", "title": "05 Bed" },
+          { "icon": "fa fa-bath", "title": "02 Bath" }
+        ]
+      },
+      {
+        "cat": ".cat4 .cat3",
+        "image": "8.png",
+        "imagealt": "Delhi East Apartment",
+        "icon": "14.png",
+        "authorname": "Vijay Kumar",
+        "url": "/property-details",
+        "title": "Jason Landville Apartment",
+        "newerprice": "INR 45K/mo",
+        "olderprice": "INR 79K/mo",
+        "features": [
+          { "icon": "fa fa-bed", "title": "05 Bed" },
+          { "icon": "fa fa-bath", "title": "02 Bath" }
+        ]
+      },
+      {
+        "image": "8.png",
+        "imagealt": "Delhi East Apartment",
+        "icon": "14.png",
+        "authorname": "Vijay Kumar",
+        "url": "/property-details",
+        "title": "Jason Landville Apartment",
+        "newerprice": "INR 45K/mo",
+        "olderprice": "INR 79K/mo",
+        "features": [
+          { "icon": "fa fa-bed", "title": "05 Bed" },
+          { "icon": "fa fa-bath", "title": "02 Bath" }
+        ]
+      }
+    ]
+  }
+}
